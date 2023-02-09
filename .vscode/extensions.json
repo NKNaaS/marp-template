@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "marp-team.marp-vscode",
+    "davidanson.vscode-markdownlint",
+    "romanpeshkov.vscode-text-tables",
+    "usernamehw.errorlens"
+  ]
+}

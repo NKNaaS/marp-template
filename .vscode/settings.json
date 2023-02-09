@@ -1,0 +1,28 @@
+{
+    "cSpell.words": [
+        "nakano",
+        "marp",
+    ],
+    "markdownlint.config": {
+        "MD003": false,
+        "MD022": false,
+        "MD024": false,
+        "MD025": false,
+        "MD026": false,
+        "MD036": false,
+        "MD045": false,
+    },
+    "markdownlint.ignore": [
+        "memo.md",
+    ],
+    "[markdown]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
+    "markdown.marp.themes": [
+        "https://raw.githubusercontent.com/rnd195/marp-community-themes/main/themes/gradient.css",
+        "https://raw.githubusercontent.com/speee/marp-speee-theme/main/marp-themes/speee.css",
+        "https://raw.githubusercontent.com/dracula/marp/master/dracula/dracula.css",        
+    ],
+    "extensions.ignoreRecommendations": false,
+}
